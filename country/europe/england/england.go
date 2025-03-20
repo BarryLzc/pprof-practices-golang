@@ -9,7 +9,7 @@ type England struct {
 }
 
 func (e *England) Name() string {
-	return "cat"
+	return "england"
 }
 
 func (e *England) Exist() {

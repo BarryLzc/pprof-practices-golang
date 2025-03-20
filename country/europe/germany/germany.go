@@ -6,7 +6,7 @@ type Germany struct {
 }
 
 func (g *Germany) Name() string {
-	return "tiger"
+	return "germany"
 }
 
 func (g *Germany) Exist() {
